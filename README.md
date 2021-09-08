@@ -13,3 +13,10 @@
     1. Take a cab to Vrindavan from Delhi airport
 
 
+### List of Items Carried
+* Mobile
+* Checkin Bag
+* Food
+    * Chocolates
+    * Chips
+
