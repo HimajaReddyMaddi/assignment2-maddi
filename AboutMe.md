@@ -15,3 +15,12 @@ In the table below I would like to provide the information about food items and 
 |Fish Biryani|Tabla Hyd|350|
 |Ice Cream| Cream Stone Hyd|150|
 |Nutella Shake| MOM's Hyd| 180|
+
+***
+### Quotes Section
+
+> "If you want to live a happy life, tie it to a goal, not to people or things."
+                                                 - *Albert Einstein*
+
+> "Many of life’s failures are people who did not realize how close they were to success when they gave up."
+                                                - *Thomas A. Edison*
