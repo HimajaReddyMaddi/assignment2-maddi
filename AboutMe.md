@@ -24,3 +24,23 @@ In the table below I would like to provide the information about food items and 
 
 > "Many of life’s failures are people who did not realize how close they were to success when they gave up."
                                                 - *Thomas A. Edison*
+
+***
+
+#### Algorithm for Power of Factorial Divisor
+> Find maximum power of a number that divides a factorial. If multiple powers of a prime factor are present in n, then we divide the count to get the maximum power value for this factor. 
+GeeksforGeeks<https://www.geeksforgeeks.org/find-maximum-power-number-divides-factorial/>
+
+```
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+
+```
+
+Codelink<https://cp-algorithms.com/algebra/factorial-divisors.html>
